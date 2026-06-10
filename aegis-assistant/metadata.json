@@ -1,0 +1,6 @@
+{
+  "name": "Jarvis",
+  "description": "Jarvis AI assistant with quick actions and siri automation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
